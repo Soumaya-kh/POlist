@@ -19,7 +19,6 @@ Ma mission est d’aider les équipes d’Olist à comprendre les différents ty
 Pour des raisons de confidentialité, Olist ne fournit pas beaucoup de données, à nous de fouiller dans celles dont on dispose et de créer les meilleures features pour les exploiter.
 
 Enfin, Olist, a spécifié sa demande ainsi :
-
-    La segmentation proposée doit être exploitable et facile d’utilisation pour l’équipe marketing.
-    On évaluerera la fréquence à laquelle la segmentation doit être mise à jour, afin de pouvoir effectuer un devis de contrat de maintenance.
-    Le code fourni doit respecter la convention PEP8, pour être utilisable par Olist.
+- La segmentation proposée doit être exploitable et facile d’utilisation pour l’équipe marketing.
+- On évaluerera la fréquence à laquelle la segmentation doit être mise à jour, afin de pouvoir effectuer un devis de contrat de maintenance.
+- Le code fourni doit respecter la convention PEP8, pour être utilisable par Olist.
